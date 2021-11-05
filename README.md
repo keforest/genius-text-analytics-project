@@ -1,1 +1,2 @@
-# genius-text-analytics-project
+# Genius Lyrics Text Analysis 
+This is a sentiment analysis of Billboard's list of top 100 songs in 2016 and 2020. Lyrics from these songs were extracted using Genius' API. This analysis was a part of a text mining and NLP project that I completed with a group of four other individuals during graduate school at the Institute for Advanced Analytics. This document contains the data used, the sentiment analysis and topic clustering completed, and a couple visualizations.
